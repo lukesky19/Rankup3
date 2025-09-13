@@ -166,9 +166,9 @@ public class RankupPlugin extends JavaPlugin {
       }
     }
     if (config.getBoolean("prestige")) {
-      getCommand("prestige").setExecutor(new PrestigeCommand(this));
+//      getCommand("prestige").setExecutor(new PrestigeCommand(this));
       if (config.getBoolean("prestiges")) {
-        getCommand("prestiges").setExecutor(new PrestigesCommand(this));
+//        getCommand("prestiges").setExecutor(new PrestigesCommand(this));
       }
     }
     if (config.getBoolean("max-rankup.enabled")) {

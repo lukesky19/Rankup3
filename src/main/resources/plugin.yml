@@ -17,12 +17,12 @@ commands:
   ranks:
     permission: rankup.ranks
     description: List all the ranks.
-  prestige:
-    permission: rankup.prestige
-    description: Prestige.
-  prestiges:
-    permission: rankup.prestiges
-    description: List all the prestiges.
+#  prestige:
+#    permission: rankup.prestige
+#    description: Prestige.
+#  prestiges:
+#    permission: rankup.prestiges
+#    description: List all the prestiges.
   maxrankup:
     permission: rankup.maxrankup
     description: Rankup as much as possible.
